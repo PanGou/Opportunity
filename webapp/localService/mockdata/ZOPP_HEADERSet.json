@@ -1,0 +1,191 @@
+[{
+	"Guid": "2194795e-035c-4964-a3e5-8e3aacb4e00d",
+	"ObjectId": "ObjectId 1",
+	"Description": "Description 1",
+	"Zzfld00002a": "HierarchyId 1",
+	"Source": "Source 1",
+	"CurrPhase": "CurrPhase 1",
+	"Probability": "Probability 1",
+	"StatUser": "StatUser 1",
+	"Memo": "Memo 1",
+	"ExpectEnd": "/Date(1424181307000)/",
+	"Zzfld00001g": "/Date(1388670907000)/",
+	"NetValueMan": 2691.85,
+	"Currency": "Currency 1",
+	"ZzprodLine": "ZzprodLine 1",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'27205a60-b380-4d22-b7fd-832127cabc8f')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}, {
+	"Guid": "d69832ec-dcf0-4ad5-b575-387ebb0fa9a3",
+	"ObjectId": "ObjectId 2",
+	"Description": "Description 2",
+	"Zzfld00002a": "Zzfld00002a 2",
+	"Source": "Source 2",
+	"CurrPhase": "CurrPhase 2",
+	"Probability": "Probability 2",
+	"StatUser": "StatUser 2",
+	"Memo": "Memo 2",
+	"ExpectEnd": "/Date(1420984507000)/",
+	"Zzfld00001g": "/Date(1262613307000)/",
+	"NetValueMan": 781.88,
+	"Currency": "Currency 2",
+	"ZzprodLine": "ZzprodLine 2",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'ecc87903-dc4f-4bc7-a5f5-f111e1fe4588')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}, {
+	"Guid": "5e4b3598-8091-4353-a76c-95a053b7792c",
+	"ObjectId": "ObjectId 3",
+	"Description": "Description 3",
+	"Zzfld00002a": "Zzfld00002a 3",
+	"Source": "Source 3",
+	"CurrPhase": "CurrPhase 3",
+	"Probability": "Probability 3",
+	"StatUser": "StatUser 3",
+	"Memo": "Memo 3",
+	"ExpectEnd": "/Date(1166709307000)/",
+	"Zzfld00001g": "/Date(1318859707000)/",
+	"NetValueMan": 5645.27,
+	"Currency": "Currency 3",
+	"ZzprodLine": "ZzprodLine 3",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'5a911077-4437-4237-b8cb-cc375c44f4a1')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}, {
+	"Guid": "e827aecc-cbd6-4de8-8bf6-d704be36c921",
+	"ObjectId": "ObjectId 4",
+	"Description": "Description 4",
+	"Zzfld00002a": "Zzfld00002a 4",
+	"Source": "Source 4",
+	"CurrPhase": "CurrPhase 4",
+	"Probability": "Probability 4",
+	"StatUser": "StatUser 4",
+	"Memo": "Memo 4",
+	"ExpectEnd": "/Date(1134482107000)/",
+	"Zzfld00001g": "/Date(974814907000)/",
+	"NetValueMan": 1988.5,
+	"Currency": "Currency 4",
+	"ZzprodLine": "ZzprodLine 4",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'eb9dc954-a165-4bf9-8c70-92c18fa01b8f')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}, {
+	"Guid": "bea1bfbb-bd6d-464b-b6fc-f138167ae15e",
+	"ObjectId": "ObjectId 5",
+	"Description": "Description 5",
+	"Zzfld00002a": "Zzfld00002a 5",
+	"Source": "Source 5",
+	"CurrPhase": "CurrPhase 5",
+	"Probability": "Probability 5",
+	"StatUser": "StatUser 5",
+	"Memo": "Memo 5",
+	"ExpectEnd": "/Date(1310738107000)/",
+	"Zzfld00001g": "/Date(1468936507000)/",
+	"NetValueMan": 313.36,
+	"Currency": "Currency 5",
+	"ZzprodLine": "ZzprodLine 5",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'8517b405-436b-45af-a0be-58dff223da55')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}, {
+	"Guid": "3ef20103-e811-471e-993c-3b368a007620",
+	"ObjectId": "ObjectId 6",
+	"Description": "Description 6",
+	"Zzfld00002a": "Zzfld00002a 6",
+	"Source": "Source 6",
+	"CurrPhase": "CurrPhase 6",
+	"Probability": "Probability 6",
+	"StatUser": "StatUser 6",
+	"Memo": "Memo 6",
+	"ExpectEnd": "/Date(1203083707000)/",
+	"Zzfld00001g": "/Date(1362664507000)/",
+	"NetValueMan": 194.38,
+	"Currency": "Currency 6",
+	"ZzprodLine": "ZzprodLine 6",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'ed3342d1-0ede-4d9d-a29a-9ac4ae20ca72')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}, {
+	"Guid": "6ee61bee-7d2f-455f-be2b-6fcda36ea185",
+	"ObjectId": "ObjectId 7",
+	"Description": "Description 7",
+	"Zzfld00002a": "Zzfld00002a 7",
+	"Source": "Source 7",
+	"CurrPhase": "CurrPhase 7",
+	"Probability": "Probability 7",
+	"StatUser": "StatUser 7",
+	"Memo": "Memo 7",
+	"ExpectEnd": "/Date(1109080507000)/",
+	"Zzfld00001g": "/Date(975074107000)/",
+	"NetValueMan": 606.99,
+	"Currency": "Currency 7",
+	"ZzprodLine": "ZzprodLine 7",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'9373202d-5a34-44bd-95b2-a740ad0c9c4c')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}, {
+	"Guid": "d1787e0e-e04b-4a24-8a4c-ac60b3e1bd09",
+	"ObjectId": "ObjectId 8",
+	"Description": "Description 8",
+	"Zzfld00002a": "Zzfld00002a 8",
+	"Source": "Source 8",
+	"CurrPhase": "CurrPhase 8",
+	"Probability": "Probability 8",
+	"StatUser": "StatUser 8",
+	"Memo": "Memo 8",
+	"ExpectEnd": "/Date(1463925307000)/",
+	"Zzfld00001g": "/Date(1106315707000)/",
+	"NetValueMan": 332.39,
+	"Currency": "Currency 8",
+	"ZzprodLine": "ZzprodLine 8",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'70568ae3-46f9-471d-84bd-5067a14038cb')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}, {
+	"Guid": "b7edb5f4-6382-4e1d-9879-1ba8e171b3ac",
+	"ObjectId": "ObjectId 9",
+	"Description": "Description 9",
+	"Zzfld00002a": "Zzfld00002a 9",
+	"Source": "Source 9",
+	"CurrPhase": "CurrPhase 9",
+	"Probability": "Probability 9",
+	"StatUser": "StatUser 9",
+	"Memo": "Memo 9",
+	"ExpectEnd": "/Date(1329400507000)/",
+	"Zzfld00001g": "/Date(1240494907000)/",
+	"NetValueMan": 2083.6,
+	"Currency": "Currency 9",
+	"ZzprodLine": "ZzprodLine 9",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'7072f8bc-b0d2-449e-8322-e6da2366f6f8')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}, {
+	"Guid": "11e81424-58c6-463f-83e4-e7cd54418f15",
+	"ObjectId": "ObjectId 10",
+	"Description": "Description 10",
+	"Zzfld00002a": "Zzfld00002a 10",
+	"Source": "Source 10",
+	"CurrPhase": "CurrPhase 10",
+	"Probability": "Probability 10",
+	"StatUser": "StatUser 10",
+	"Memo": "Memo 10",
+	"ExpectEnd": "/Date(1085234107000)/",
+	"Zzfld00001g": "/Date(1490018107000)/",
+	"NetValueMan": 7050.66,
+	"Currency": "Currency 10",
+	"ZzprodLine": "ZzprodLine 10",
+	"__metadata": {
+		"uri": "ZOPP_HEADERSet(guid'e78388ef-e5ed-4208-9482-7c1baf70283d')",
+		"type": "ZSALE_ODATA_01_SRV.ZOPP_HEADER"
+	}
+}]
